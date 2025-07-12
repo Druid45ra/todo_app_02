@@ -1,6 +1,3 @@
-
-# todo_app_02
-=======
 # To-Do List App 🗂️
 # Despre To-Do List App 🗂️
 
