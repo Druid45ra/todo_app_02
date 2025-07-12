@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # todo_app_02
 =======
 # To-Do List App 🗂️
@@ -39,4 +39,4 @@ pip install -r requirements.txt
 
 5️⃣ Rulează aplicația:
 python todo_app.py
->>>>>>> 7fbf9ba (Prima versiune)
+
